@@ -8,7 +8,7 @@
   [![GitHub license](https://img.shields.io/github/license/rstak/Melonoma-Skin-Cancer-Detection)](https://github.com/RsTaK/Melonoma-Skin-Cancer-Detection/blob/master/LICENSE)
 </p>  
 
-![Melonoma](https://github.com/RsTaK/Melonoma-Skin-Cancer-Detection/blob/master/assets/header.png)
+<img src="assets\header.png"/>
 
 # About
 Skin cancer is the most prevalent type of cancer. Melanoma, specifically, is responsible for 75% of skin cancer deaths, despite being the least common skin cancer. The American Cancer Society estimates over 100,000 new melanoma cases will be diagnosed in 2020. It's also expected that almost 7,000 people will die from the disease. As with other cancers, early and accurate detection potentially aided by data science can make treatment more effective.
@@ -23,8 +23,7 @@ After experimenting with different approaches, We used a Three Layered Approach 
 
 Achived Area under the ROC Curve (AUC) Score of 0.93
 
-![Graph](https://github.com/RsTaK/Melonoma-Skin-Cancer-Detection/blob/master/assets/architecture.png)
-
+<img src="assets\architecture.png"/>
 
 # Data Augmentations
 
